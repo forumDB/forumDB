@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @forumDB
+- 👀 I’m interested in front-end work, especially forum themes.
+- 💞️ I’m looking to collaborate on any small project in need of an aesthetic hand, especially open source projects or passion projects.
+- 📫 Reach me on contact@forumdb.net
